@@ -6,4 +6,4 @@ The duck will always be there to encourage you during your work.
 
 Just call him with `ctrl + alt + o`, he's cool!
 
-![Duck](https://raw.githubusercontent.com/supercoincoin42/the-atom-duck/master/duck.png)
+![Duck](https://raw.githubusercontent.com/supercoincoin42/the-atom-duck/master/duck-message-example.png)
