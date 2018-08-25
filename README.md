@@ -1,5 +1,5 @@
 # The Atom Duck
 
-The Atom Duck let you have a small talk with The Atom Duck!
+Thanks to this package you can have a small talk with The Atom Duck!
 
-Isn't that great?!
+The duck will always be there to encourage you during your work. Just call him, he's cool!
