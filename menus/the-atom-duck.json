@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle the-atom-duck",
+        "command": "the-atom-duck:toggle"
+      },
+      {
+        "label": "Close the-atom-duck",
+        "command": "the-atom-duck:escape"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "the-atom-duck",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "the-atom-duck:toggle"
+            },
+            {
+              "label": "Close",
+              "command": "the-atom-duck:escape"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

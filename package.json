@@ -1,0 +1,16 @@
+{
+  "name": "the-atom-duck",
+  "main": "./lib/the-atom-duck",
+  "version": "0.0.0",
+  "description": "Have a small talk with The Atom Duck!",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "the-atom-duck:toggle"
+  },
+  "repository": "https://github.com/supercoincoin42/the-atom-duck",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

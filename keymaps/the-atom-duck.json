@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "the-atom-duck:toggle",
+    "escape": "the-atom-duck:escape"
+  }
+}
