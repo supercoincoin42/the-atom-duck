@@ -4,10 +4,6 @@
       {
         "label": "Toggle The Atom Duck",
         "command": "the-atom-duck:toggle"
-      },
-      {
-        "label": "Close The Atom Duck",
-        "command": "the-atom-duck:escape"
       }
     ]
   },
@@ -21,10 +17,6 @@
             {
               "label": "Toggle",
               "command": "the-atom-duck:toggle"
-            },
-            {
-              "label": "Close",
-              "command": "the-atom-duck:escape"
             }
           ]
         }

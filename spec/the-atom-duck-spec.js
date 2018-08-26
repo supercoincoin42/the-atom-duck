@@ -16,7 +16,7 @@ describe("TheAtomDuck", () => {
   });
 
   describe("when the the-atom-duck:toggle event is triggered", () => {
-    it("hides and shows the modal panel", () => {
+    it("hides and shows the panel", () => {
       // Before the activation event the view is not on the DOM, and no panel
       // has been created
       expect(workspaceElement.querySelector(".the-atom-duck")).not.toExist();
