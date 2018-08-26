@@ -2,11 +2,11 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle the-atom-duck",
+        "label": "Toggle The Atom Duck",
         "command": "the-atom-duck:toggle"
       },
       {
-        "label": "Close the-atom-duck",
+        "label": "Close The Atom Duck",
         "command": "the-atom-duck:escape"
       }
     ]
@@ -16,7 +16,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "the-atom-duck",
+          "label": "The Atom Duck",
           "submenu": [
             {
               "label": "Toggle",
